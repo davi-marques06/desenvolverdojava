@@ -1,0 +1,4 @@
+davi,Caminhada
+Nonato,Carro
+sandro,Caminhada
+ tila,Uber
